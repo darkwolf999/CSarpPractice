@@ -1,0 +1,10 @@
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.1\MySqlTest.csproj.CoreCompileInputs.cache
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.1\MySqlTest.AssemblyInfoInputs.cache
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.1\MySqlTest.AssemblyInfo.cs
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.1\MySqlTest.deps.json
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.1\MySqlTest.runtimeconfig.json
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.1\MySqlTest.runtimeconfig.dev.json
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.1\MySqlTest.dll
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.1\MySqlTest.pdb
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.1\MySqlTest.dll
+C:\Users\Darkwolf\source\repos\CSarpPractice\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.1\MySqlTest.pdb
