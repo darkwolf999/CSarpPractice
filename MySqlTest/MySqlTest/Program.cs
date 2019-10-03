@@ -8,6 +8,7 @@ namespace MySqlTest
     {
         static void Main(string[] args)
         {
+            //////////////////
             string host = "51.15.118.65"; // Имя хоста
             string database = "testdb"; // Имя базы данных
             string user = "root"; // Имя пользователя
