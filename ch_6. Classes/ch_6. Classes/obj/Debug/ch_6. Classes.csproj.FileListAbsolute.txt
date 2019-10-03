@@ -1,0 +1,7 @@
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\bin\Debug\ch_6.Classes.exe.config
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\bin\Debug\ch_6.Classes.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\bin\Debug\ch_6.Classes.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\obj\Debug\ch_6. Classes.csprojAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\obj\Debug\ch_6. Classes.csproj.CoreCompileInputs.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\obj\Debug\ch_6.Classes.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\С#\Практика Шилдт\ch_6. Classes\ch_6. Classes\obj\Debug\ch_6.Classes.pdb
