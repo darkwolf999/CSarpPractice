@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nullable
+namespace Nullable
 {
     class Program
     {
@@ -62,7 +62,7 @@ namespace nullable
 
 
 
-            Console.Read();      
+            Console.Read();
         }
 
 
