@@ -25,6 +25,23 @@ namespace _2DAndMultiArray
 
 
 
+            Console.WriteLine();
+
+
+
+
+
+            var array1D = new[] { 10, 24, 67, 45 };
+
+            var array2D = new[,] { { 1.1, 2.2 },
+                                   { 3.3, 4.4 },
+                                   { 5.5, 6.6 } };
+
+            var arrayJagged = new[] { new[] { 1, 2, 3, 4 },
+                                      new[] { 9, 8, 7 }, 
+                                      new[] { 11, 12, 13, 14, 15 } };
+
+
 
 
             Console.WriteLine();
