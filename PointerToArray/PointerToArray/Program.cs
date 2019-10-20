@@ -40,6 +40,59 @@ namespace PointerToArray
             Console.WriteLine(x);
             Console.WriteLine(y);
 
+
+
+
+
+            Console.WriteLine(); Console.WriteLine(); Console.WriteLine(); Console.WriteLine(); Console.WriteLine();
+
+
+            int[] arr1 = { 1, 2, 3, 4, 5 };
+            int[] arr2 = { 0, 0, 0, 0, 0 };
+
+
+            Console.Write("arr1: ");
+            foreach (int element in arr1)
+                Console.Write(element + " ");
+
+            Console.WriteLine();
+
+            Console.Write("arr2: ");
+            foreach (int element in arr2)
+                Console.Write(element + " ");
+
+
+            arr1 = arr2;
+            Console.WriteLine();
+
+
+            Console.Write("arr1: ");
+            foreach (int element in arr1)
+                Console.Write(element + " ");
+
+            Console.WriteLine();
+
+            Console.Write("arr2: ");
+            foreach (int element in arr2)
+                Console.Write(element + " ");
+
+            arr1[0] = 11111;
+            Console.WriteLine();
+
+            Console.Write("arr1: ");
+            foreach (int element in arr1)
+                Console.Write(element + " ");
+
+            Console.WriteLine();
+
+            Console.Write("arr2: ");
+            foreach (int element in arr2)
+                Console.Write(element + " ");
+
+
+
+
+
             Console.ReadKey();
         }
     }
