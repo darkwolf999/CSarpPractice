@@ -77,6 +77,17 @@ namespace ArrayMethods
             }
             Console.WriteLine();
 
+
+
+            double result = 2 * 2 * 2;
+
+            Console.WriteLine(result);
+
+            double niceResult = Math.Pow(2, 3);
+
+            Console.WriteLine(niceResult);
+
+
             Console.ReadKey();
         }
     }
