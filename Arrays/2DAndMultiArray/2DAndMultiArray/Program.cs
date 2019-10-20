@@ -8,20 +8,24 @@ namespace _2DAndMultiArray
         {
             Console.WriteLine("=> Rectangular multidimensional array.");
             // Прямоугольный многомерный массив.
-            int[,] myMatrix;
-            int m = 10, n = 10;
-            myMatrix = new int[m, n]; // Заполнить массив (3 * 4)
+            int m = 3, n = 3;
+            int[,] myMatrix = new int[m, n];
+
+
+            Console.WriteLine(myMatrix.Length);  
+
+            // Заполнить массив
             for (int i = 0; i < m; i++)
                 for (int j = 0; j < n; j++)
-                    myMatrix[i, j] = i * j;
-            // Вывести содержимое массива (3 * 4) .
+                    myMatrix[i, j] = i * n + j;
+
+            // Вывести содержимое массива
             for (int i = 0; i < m; i++)
             {
                 for (int j = 0; j < n; j++)
                     Console.Write(myMatrix[i, j] + "\t");
                 Console.WriteLine();
             }
-
 
 
 
@@ -33,9 +37,7 @@ namespace _2DAndMultiArray
 
             var array1D = new[] { 10, 24, 67, 45 };
 
-            var array2D = new[,] { { 1.1, 2.2 },
-                                   { 3.3, 4.4 },
-                                   { 5.5, 6.6 } };
+            var array2D = new[,] { { 1.1, 2.2 }, { 3.3, 4.4 }, { 5.5, 6.6 } };
 
             var arrayJagged = new[] { new[] { 1, 2, 3, 4 },
                                       new[] { 9, 8, 7 }, 
@@ -53,10 +55,12 @@ namespace _2DAndMultiArray
 
             Console.WriteLine("=> Jagged multidimensional array."); // Зубчатый многомерный массив (т.е. массив массивов)
             int size = 40;
-            int[][] myJagArray = new int[size][]; // Здесь мы имеем массив из 5 разных массивов
+
             // Создать зубчатый массив.
+            int[][] myJagArray = new int[size][]; // Здесь мы имеем массив из size разных массивов
             for (int i = 0; i < myJagArray.Length; i++)
                 myJagArray[i] = new int[i+1];
+
             // Вывести все строки (помните, что каждый элемент имеет стандартное значение 0).
             for (int i = 0; i < size; i++)
             {
