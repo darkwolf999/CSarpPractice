@@ -6,8 +6,9 @@ namespace Params
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(CalculateAvg(1,4,5,6,67,7));
 
+            Console.WriteLine(CalculateAvg(5,4,4,545,546,564,65,546,54));
+            
             Console.ReadKey();
         }
 
