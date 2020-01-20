@@ -1,6 +1,6 @@
 ﻿using System;
 
-using static System.Console; // Добавь этот импорт
+using static System.Console;// Добавь этот импорт
 
 namespace StaticImport
 {
