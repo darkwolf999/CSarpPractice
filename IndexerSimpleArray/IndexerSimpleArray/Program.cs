@@ -6,7 +6,7 @@ namespace IndexerSimpleArray
     class FailSoftArray
     {
         int[] arr;
-        public int Length { get; }
+        public int Length { get; private set; }
 
         public FailSoftArray(int len)
         {
