@@ -6,7 +6,7 @@ namespace Indexer2DArray
     {
         private int[,] arr;
         private int rows, cols;
-        private int Length;
+        public int Length { get; }
 
         public FailSoftArray2D(int r, int c)
         {
