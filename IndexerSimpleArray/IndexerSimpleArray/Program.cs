@@ -6,7 +6,7 @@ namespace IndexerSimpleArray
     class FailSoftArray
     {
         int[] arr;
-        public readonly int Length;
+        public int Length { get; }
 
         public FailSoftArray(int len)
         {
@@ -51,7 +51,7 @@ namespace IndexerSimpleArray
 
             Console.WriteLine("");
 
-            //arr1.Length = 1000; //readonly член нельзя изменять напрямую
+            //arr1.Length = 1000;
             Console.WriteLine($"Длина массива = {arr1.Length}");
 
             Console.WriteLine("");
